@@ -1,0 +1,21 @@
+/* author hwangest */
+
+import java.util.Scanner;
+
+public class StringMethods {
+    /* @param args */
+    public static booleans endsWithRep(String s1, String s2, int n) {
+        System.out.println("Enter two strings and an integer of repetition\n");
+        Scanner in = new Scanner(System.in);
+        String string1 = in.nextLine();
+
+        System.o
+        endsWith(String suffix)
+    }
+
+    public static void main(String[] args) {
+        System.out.println("Code for endsWithRep");
+        endsWithRep("foobarbar", "bar", 2);
+        endsWithRep("foobarbar", "baz", 1);
+    }
+}
