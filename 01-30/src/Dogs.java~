@@ -1,0 +1,16 @@
+/*
+ * @author hwangest
+ *
+ */
+
+public class Dog {
+    //three fields
+    public String name;
+    public String breed;
+    public int taillength;
+
+    //construct
+    public boolean pottytrained(String);
+
+    //method
+    public void ;
