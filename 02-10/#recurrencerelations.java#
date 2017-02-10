@@ -1,0 +1,13 @@
+/*
+
+Exercise (Recurrence Relations)
+
+T'(0) = 0
+T'(n) = 1 + T(n - 2)
+
+big-O bound
+
+c = 
+x = 
+
+ */
