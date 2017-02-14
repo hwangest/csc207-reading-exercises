@@ -1,6 +1,6 @@
 /*
 
 Loop invariant for max function:
-The 
+The ret is the maximum value of the array arr from indexes 0 to k where k is the index we are at in the loop of the array.
 
 */
